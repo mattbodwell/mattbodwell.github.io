@@ -21,6 +21,12 @@ body {
 .things_to_do {
 	color:#fff;
 }
+.hotel_link:link{
+	color:#fff;
+}
+.hotel_link:visited{
+	color:#fff;
+}
 /* Added Classes*/
 .fancy{
   margin-bottom: 0px;
