@@ -18,6 +18,9 @@ body {
   color: #828282;
   background: #fff;
 }
+li {
+	color:#fff;
+}
 /* Added Classes*/
 .fancy{
   margin-bottom: 0px;
